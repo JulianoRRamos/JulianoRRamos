@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JulianoRRamos/portifolio](https://github.com/JulianoRRamos/portifolio)
 
-- 💬 Ask me about **Data Engineer, Cloud Platforms, Data Science, Agile, Software Process, Business Analysis, Requirements Analysis**
+- 💬 Ask me about **Data Engineering, Cloud Platforms, Data Science, Agile, Software Process, Business Analysis, Requirements Analysis**
 
 - 📫 How to reach me **juliano_rr@yahoo.com.br**
 
